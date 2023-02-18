@@ -1,0 +1,19 @@
+{
+  "name": "bizon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruins288/bizon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruins288/bizon/issues"
+  },
+  "homepage": "https://github.com/bruins288/bizon#readme"
+}
